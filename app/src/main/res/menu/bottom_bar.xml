@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/locations"
+            android:icon="@drawable/map_icon"
+            android:title="Dances"/>
+        <item
+            android:id="@+id/message_content"
+            android:icon="@drawable/message_content"
+            android:title="Message"/>
+        <item
+            android:id="@+id/contacts"
+            android:icon="@drawable/contacts_icon"
+            android:title="Contacts"/>
+</menu>
